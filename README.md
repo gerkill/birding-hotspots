@@ -53,7 +53,7 @@ If your browser does not start automatically, open your browser and connect to: 
 
 ## Attribution
 
--Google Maps API
+-Google Maps API<br>
 -FourSquare Venues API
 
 ## Acknowledgements
