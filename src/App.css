@@ -1,0 +1,26 @@
+.app {
+  text-align: center;
+}
+
+.app-header {
+  background-color:#515c6d;
+  color:#d59563;
+  height: 50px;
+  padding: 5px;
+  position :fixed;
+  top: 0;
+  width: 100%;
+  z-index:  1;
+}
+
+.app-title {
+  font-size: 1.5em;
+  text-align: center;
+}
+
+/* media query for mobile screens */
+@media screen and (max-width: 360px) {
+  .app-header {
+    position: top;
+  }
+}
