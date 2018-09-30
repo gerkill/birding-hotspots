@@ -1,0 +1,73 @@
+[
+  {
+    "name":"Bayocean Spit",
+    "lat":45.529057,
+    "lng":-123.946582
+  },
+
+  {
+    "name":"Cape Meares",
+    "lat":45.4907337,
+    "lng":-123.9754922
+  },
+
+  {
+    "name":"Netarts Bay",
+    "lat":45.4306577,
+    "lng":-123.9469537
+  },
+
+  {
+    "name":"Cape Lookout",
+    "lat":45.3383335,
+    "lng":-123.9902487
+  },
+
+  {
+    "name": "Nestucca Bay National Wildlife Refuge",
+    "lat":45.1691183,
+    "lng":-123.9077684
+  },
+
+{
+    "name": "Bob Straub State Park",
+    "lat":45.1673267,
+    "lng":-123.9282325
+  },
+
+{
+    "name": "Sitka Sedge State Natural Area",
+    "lat":45.2673989,
+    "lng":-123.9629892
+  },
+
+  {
+    "name": "Cape Kiwanda",
+    "lat":45.219065,
+    "lng":-123.9775799
+  },
+
+  {
+    "name": "Neskowin Beach State Park",
+    "lat":45.099272,
+    "lng":-123.9897807
+  },
+
+  {
+    "name":"Hart's Cove, Cascade Head",
+    "lat":45.074783,
+    "lng":-124.0032037
+  },
+
+  {
+    "name":"Salmon River Estuary",
+    "lat":45.0450049,
+    "lng":-124.0037007
+  },
+
+  {
+    "name":"Road's End",
+    "lat":45.0070974,
+    "lng":-124.0123361
+  }
+]
