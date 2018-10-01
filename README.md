@@ -50,6 +50,20 @@ Start a local development Web Server via:
 Your browser should open automatically and display the App.
 If your browser does not start automatically, open your browser and connect to: ```http://localhost:3000```
 
+The service worker with the create-react-app only works in the *production build*, not in the development mode.
+To run the app in production use the following commands:
+```
+npm run build
+serve -s build
+```
+or with yarn use
+```
+yarn build
+yarn global add serve
+serve -s build
+```
+
+
 
 ## Attribution
 
