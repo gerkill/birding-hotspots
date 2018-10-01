@@ -56,7 +56,12 @@ To run the app in production use the following commands:
 npm run build
 serve -s build
 ```
-or with yarn use
+Then go to
+```
+localhost:5000
+```
+
+or with yarn use:
 ```
 yarn build
 yarn global add serve
