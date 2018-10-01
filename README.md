@@ -1,5 +1,5 @@
 # birding-hotspots
-GWG Udacity Fend Project #7
+GWG Udacity FEND Project #7
 
 # Neighborhood Map (REACT) Project: Birding Hotspots
 
