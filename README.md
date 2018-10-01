@@ -19,8 +19,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 - Presentation and Display
   - Interactive Google Map.
-  - Pre-defined locations/attractions.
-  - Attraction and address information displayed via an InfoWindow.
+  - Pre-defined locations.
+  - Location and address information displayed via an InfoWindow.
 
 
 - Navigation
