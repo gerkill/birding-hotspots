@@ -24,6 +24,9 @@ class App extends Component {
     setupMap(
       "https://maps.googleapis.com/maps/api/js?key=AIzaSyBahhCeE9ajAlnwpg5tHWCEIVajSU1WaOs&v=3&callback=initMap"
     );
+    // Error Handling for Google API
+    let failedAuthentication = false;
+	function gm_authFailure() { failedAuthentication = true };
   }
 
   // Initializes the Map, Infowindow, event-listeners, markers
