@@ -36,7 +36,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Download all the files to your local machine.
 ```
-git clone https://github.com/gerkill/birding-hotspots or downloas as zip.
+git clone https://github.com/gerkill/birding-hotspots or download as zip.
 In the command line, cd birding-hotspots
 yarn install or npm install
 ```
