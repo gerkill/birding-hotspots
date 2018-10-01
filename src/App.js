@@ -24,9 +24,9 @@ class App extends Component {
     setupMap(
       "https://maps.googleapis.com/maps/api/js?key=AIzaSyBahhCeE9ajAlnwpg5tHWCEIVajSU1WaOs&v=3&callback=initMap"
     );
-    // Error Handling for Google API
-    let failedAuthentication = false;
-	function gm_authFailure() { failedAuthentication = true };
+     // Google api authentication error alert
+	window.gm_authFailure = function() {
+  	alert('Sorry! This map is not loading: Google authentication key error.');
   }
 
   // Initializes the Map, Infowindow, event-listeners, markers
