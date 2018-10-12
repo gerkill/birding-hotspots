@@ -22,7 +22,7 @@ class App extends Component {
     window.initMap = this.initMap;
     // asynchronously load map
     setupMap(
-      "https://maps.googleapis.com/maps/api/js?key=AIzaSyBahhCeE9ajAlnwpg5tHWCEIVajSU1WaOs&v=3&callback=initMap"
+      "https://maps.googleapis.com/maps/api/js?key=SyBahhCeE9ajAlnwpg5tHWCEIVajSU1WaOs&v=3&callback=initMap"
     );
      // Google api authentication error alert
 	window.gm_authFailure = function() {
@@ -218,8 +218,8 @@ class App extends Component {
   getFourSqData(marker) {
     let self = this;
     // My FourSquare Client Details
-    let FSclientId = "KPE2CUCAJK1QJHEMPDUAMCBLFEKW2Q30OO1DUYBOTVUSXOWE";
-    let FSclientSecret = "RXPY2I2T20FY3HHUBTILVNEHZ34GBR2LJPZ1FNJQCFOAFHIJ";
+    let FSclientId = "FEKW2Q30OO1DUYBOTVUSXOWE";
+    let FSclientSecret = "4GBR2LJPZ1FNJQCFOAFHIJ";
     // Latest Version
     let FSVersion = "20180721";
 
