@@ -26,7 +26,7 @@ class App extends Component {
     );
      // Google api authentication error alert
 	window.gm_authFailure = function() {
-  	alert('Sorry! This map is not loading properly: Google authentication key error.');
+  	alert('Sorry! This map is not loading properly: Google API authentication key error.');
   }
 
   // Initializes the Map, Infowindow, event-listeners, markers
